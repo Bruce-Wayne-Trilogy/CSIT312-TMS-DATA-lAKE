@@ -1,0 +1,87 @@
+{
+  "spark_startup_s": 7.72,
+  "machine": "2 vCPU, 8 GB, single node (local mode)",
+  "sizes": {
+    "25pct": {
+      "events": 472341,
+      "mb": 185.0,
+      "mr_model_total_s": [
+        1.75,
+        1.52,
+        1.49
+      ],
+      "mr_phases_median_s": {
+        "map_s": 1.17,
+        "shuffle_sort_s": 0.13,
+        "reduce_s": 0.23
+      },
+      "mr_spill_mb": 17.5,
+      "spark_rdd_s": [
+        11.13,
+        7.46,
+        6.84
+      ],
+      "spark_df_s": [
+        7.9,
+        3.89,
+        3.84
+      ],
+      "groups": 3783,
+      "outputs_identical_across_engines": true
+    },
+    "50pct": {
+      "events": 919287,
+      "mb": 367.7,
+      "mr_model_total_s": [
+        2.86,
+        3.17,
+        2.9
+      ],
+      "mr_phases_median_s": {
+        "map_s": 2.21,
+        "shuffle_sort_s": 0.29,
+        "reduce_s": 0.42
+      },
+      "mr_spill_mb": 34.1,
+      "spark_rdd_s": [
+        13.61,
+        13.5,
+        12.88
+      ],
+      "spark_df_s": [
+        6.71,
+        6.2,
+        5.19
+      ],
+      "groups": 7647,
+      "outputs_identical_across_engines": true
+    },
+    "100pct": {
+      "events": 1635510,
+      "mb": 666.1,
+      "mr_model_total_s": [
+        5.19,
+        4.97,
+        4.95
+      ],
+      "mr_phases_median_s": {
+        "map_s": 3.81,
+        "shuffle_sort_s": 0.45,
+        "reduce_s": 0.69
+      },
+      "mr_spill_mb": 60.7,
+      "spark_rdd_s": [
+        18.36,
+        18.3,
+        17.73
+      ],
+      "spark_df_s": [
+        9.73,
+        9.91,
+        9.82
+      ],
+      "groups": 15349,
+      "outputs_identical_across_engines": true
+    }
+  }
+}

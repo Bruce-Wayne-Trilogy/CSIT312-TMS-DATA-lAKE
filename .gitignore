@@ -1,0 +1,7 @@
+# generated data is large and reproducible from the seed
+lake*/
+data/
+*.tar.gz
+*.parquet
+__pycache__/
+.DS_Store

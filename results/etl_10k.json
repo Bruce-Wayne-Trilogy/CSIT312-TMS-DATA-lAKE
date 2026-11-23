@@ -1,0 +1,110 @@
+{
+  "reconciliation": {
+    "truth_orders": 10000,
+    "curated_orders": 10000,
+    "curated_lines": 14683,
+    "missing_in_curated": 0,
+    "extra_in_curated": 0,
+    "total_mismatch": 0,
+    "items_mismatch": 0,
+    "channel_mismatch": 0,
+    "revenue_truth": 40438942.0,
+    "revenue_curated": 40438942.0
+  },
+  "web_events": {
+    "rows": 162146,
+    "columns": [
+      "event_id",
+      "event_ts",
+      "session_id",
+      "anonymous_id",
+      "customer_id",
+      "event_type",
+      "page_path",
+      "product_id",
+      "device",
+      "traffic_source",
+      "utm_campaign",
+      "price_aed",
+      "qty",
+      "search_query",
+      "payment_status",
+      "order_id",
+      "purchase_total_aed",
+      "consent_analytics",
+      "dt"
+    ],
+    "consent_null_before_2026_03": true
+  },
+  "funnel": [
+    {
+      "traffic_source": "organic",
+      "sessions": 13640,
+      "viewed": 13640,
+      "carted": 3394,
+      "checkout": 2464,
+      "purchased": 1963,
+      "conversion_pct": 14.39
+    },
+    {
+      "traffic_source": "direct",
+      "sessions": 8925,
+      "viewed": 8925,
+      "carted": 2183,
+      "checkout": 1554,
+      "purchased": 1255,
+      "conversion_pct": 14.06
+    },
+    {
+      "traffic_source": "paid_search",
+      "sessions": 7192,
+      "viewed": 7192,
+      "carted": 1796,
+      "checkout": 1345,
+      "purchased": 1070,
+      "conversion_pct": 14.88
+    },
+    {
+      "traffic_source": "social",
+      "sessions": 6534,
+      "viewed": 6534,
+      "carted": 1611,
+      "checkout": 1153,
+      "purchased": 912,
+      "conversion_pct": 13.96
+    },
+    {
+      "traffic_source": "email",
+      "sessions": 2457,
+      "viewed": 2457,
+      "carted": 572,
+      "checkout": 408,
+      "purchased": 326,
+      "conversion_pct": 13.27
+    },
+    {
+      "traffic_source": "referral",
+      "sessions": 1579,
+      "viewed": 1579,
+      "carted": 378,
+      "checkout": 298,
+      "purchased": 235,
+      "conversion_pct": 14.88
+    }
+  ],
+  "revenue_by_category": {
+    "Mattresses": 13565190.0,
+    "Living room": 11305800.0,
+    "Bedding": 6984530.0,
+    "Bedroom": 4891005.0,
+    "Massagers": 2410200.0,
+    "Dining": 845870.0,
+    "Decor": 253650.0
+  },
+  "support_text": {
+    "messages": 943,
+    "arabic": 137,
+    "keyword_classifier_accuracy": 1.0
+  },
+  "etl_wall_seconds": 82.4
+}
