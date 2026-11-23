@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0005146-1","ts":"2026-04-20T16:14:28+04:00","channel":"whatsapp","customer_id":"SYN-CUST-003246","order_id":"SYN-ORD-0005146","language":"en","topic_hint":"cancel","text":"Please cancel order SYN-ORD-0005146, I ordered the wrong size.","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0005212-1","ts":"2026-04-20T23:02:03+04:00","channel":"whatsapp","customer_id":"SYN-CUST-004466","order_id":"SYN-ORD-0005212","language":"en","topic_hint":"warranty","text":"How do I activate the warranty for order SYN-ORD-0005212?","data_origin":"SYNTHETIC"}

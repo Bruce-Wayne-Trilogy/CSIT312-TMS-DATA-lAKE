@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0001154-1","ts":"2025-12-07T07:02:42+04:00","channel":"whatsapp","customer_id":"SYN-CUST-000979","order_id":"SYN-ORD-0001154","language":"en","topic_hint":"warranty","text":"What does the warranty cover for the Dr. Weil Pillow Protector (order SYN-ORD-0001154)?","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0001192-1","ts":"2025-12-07T21:34:03+04:00","channel":"email","customer_id":"SYN-CUST-001011","order_id":"SYN-ORD-0001192","language":"en","topic_hint":"cancel","text":"I need to cancel order SYN-ORD-0001192 before it ships.","data_origin":"SYNTHETIC"}

@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0002047-1","ts":"2026-01-05T17:37:53+04:00","channel":"whatsapp","customer_id":"SYN-CUST-001749","order_id":"SYN-ORD-0002047","language":"en","topic_hint":"address","text":"Can you change the delivery address for order SYN-ORD-0002047 to Sharjah?","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0002157-1","ts":"2026-01-05T18:34:53+04:00","channel":"phone_note","customer_id":"SYN-CUST-001845","order_id":"SYN-ORD-0002157","language":"en","topic_hint":"cancel","text":"Please cancel order SYN-ORD-0002157, I ordered the wrong size.","data_origin":"SYNTHETIC"}

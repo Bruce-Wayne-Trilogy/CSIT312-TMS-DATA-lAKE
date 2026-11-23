@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0001699-1","ts":"2025-12-23T03:13:13+04:00","channel":"whatsapp","customer_id":"SYN-CUST-001456","order_id":"SYN-ORD-0001699","language":"ar","topic_hint":"delivery_eta","text":"هل يمكنني تحديد موعد للتوصيل لطلب SYN-ORD-0001699؟","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0001680-1","ts":"2025-12-23T10:10:34+04:00","channel":"phone_note","customer_id":"SYN-CUST-001440","order_id":"SYN-ORD-0001680","language":"ar","topic_hint":"delivery_eta","text":"متى سيتم توصيل طلبي رقم SYN-ORD-0001680؟","data_origin":"SYNTHETIC"}

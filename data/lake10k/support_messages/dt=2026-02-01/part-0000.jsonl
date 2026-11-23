@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0002885-1","ts":"2026-02-01T03:24:41+04:00","channel":"whatsapp","customer_id":"SYN-CUST-002470","order_id":"SYN-ORD-0002885","language":"en","topic_hint":"cancel","text":"I need to cancel order SYN-ORD-0002885 before it ships.","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0002867-1","ts":"2026-02-01T23:44:36+04:00","channel":"phone_note","customer_id":"SYN-CUST-002454","order_id":"SYN-ORD-0002867","language":"en","topic_hint":"cancel","text":"Please cancel order SYN-ORD-0002867, I ordered the wrong size.","data_origin":"SYNTHETIC"}

@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0000882-2","ts":"2025-11-28T00:53:15+04:00","channel":"whatsapp","customer_id":"SYN-CUST-000754","order_id":"SYN-ORD-0000882","language":"en","topic_hint":"delivery_eta","text":"Hi, when will my order SYN-ORD-0000882 be delivered?","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0000905-1","ts":"2025-11-28T07:57:41+04:00","channel":"whatsapp","customer_id":"SYN-CUST-000771","order_id":"SYN-ORD-0000905","language":"ar","topic_hint":"cancel","text":"أرغب في إلغاء الطلب رقم SYN-ORD-0000905 من فضلكم.","data_origin":"SYNTHETIC"}

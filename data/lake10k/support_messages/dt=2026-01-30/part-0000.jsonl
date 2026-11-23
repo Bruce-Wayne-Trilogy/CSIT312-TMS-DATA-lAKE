@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0002800-1","ts":"2026-01-30T01:44:28+04:00","channel":"whatsapp","customer_id":"SYN-CUST-002392","order_id":"SYN-ORD-0002800","language":"en","topic_hint":"address","text":"Can you change the delivery address for order SYN-ORD-0002800 to Sharjah?","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0002836-2","ts":"2026-01-30T22:52:17+04:00","channel":"phone_note","customer_id":"SYN-CUST-002425","order_id":"SYN-ORD-0002836","language":"en","topic_hint":"delivery_eta","text":"Order SYN-ORD-0002836 - any update on delivery time please?","data_origin":"SYNTHETIC"}

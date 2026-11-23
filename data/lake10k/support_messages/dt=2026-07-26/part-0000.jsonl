@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0007414-1","ts":"2026-07-26T10:58:32+04:00","channel":"whatsapp","customer_id":"SYN-CUST-006389","order_id":"SYN-ORD-0007414","language":"en","topic_hint":"delivery_eta","text":"Can I schedule the delivery for order SYN-ORD-0007414? I am home on weekends.","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0007404-1","ts":"2026-07-26T23:42:39+04:00","channel":"whatsapp","customer_id":"SYN-CUST-006381","order_id":"SYN-ORD-0007404","language":"en","topic_hint":"delivery_eta","text":"Hi, when will my order SYN-ORD-0007404 be delivered?","data_origin":"SYNTHETIC"}

@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0001389-1","ts":"2025-12-14T03:32:21+04:00","channel":"email","customer_id":"SYN-CUST-001183","order_id":"SYN-ORD-0001389","language":"en","topic_hint":"delivery_eta","text":"Can I schedule the delivery for order SYN-ORD-0001389? I am home on weekends.","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0001369-1","ts":"2025-12-14T03:38:45+04:00","channel":"whatsapp","customer_id":"SYN-CUST-001165","order_id":"SYN-ORD-0001369","language":"en","topic_hint":"warranty","text":"How do I activate the warranty for order SYN-ORD-0001369?","data_origin":"SYNTHETIC"}

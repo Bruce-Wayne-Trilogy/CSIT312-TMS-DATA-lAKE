@@ -13,6 +13,7 @@ contacted; one replied that it could not share sensitive data).
 | `data_generation/` | `generate_orders.py` (seed 312, 360-product catalog, 10,000 orders), `generate_lake_data.py` (raw feeds: online orders, POS receipts, web events, support messages), `verify_dataset.py` |
 | `pipelines/` | HDFS layout, Hive external/ORC tables and OLAP queries, Hadoop Streaming MapReduce (`mapreduce/`), Spark benchmark scripts, run book |
 | `spark_scala/` | `etl.scala`: Spark ETL (raw to curated Parquet) with reconciliation, funnel and support-text checks |
+| `data/` | The synthetic datasets: `lake10k/` (raw zone: ecom_orders, pos_transactions, web_events, support_messages, reference/pos_item_map.csv, partitioned by dt=) and `source_tables/` (orders.csv, order_items.csv, product_catalog.csv, stats.json, dataset README) |
 | `results/` | Benchmark and ETL result files from our runs |
 
 ## Reproduce
@@ -24,7 +25,7 @@ python3 data_generation/verify_dataset.py
 ```
 
 Then follow `pipelines/RUNBOOK_cluster.md` on a Hadoop VM (Hive 2.1.1, Spark 3.0.3, HBase 1.2.6).
-Generated data is not committed; the fixed seed regenerates it identically.
+The generated datasets used in the report are included under `data/`; the fixed seed also regenerates them identically.
 
 ## Key results (10,000 orders)
 
@@ -37,4 +38,13 @@ An AI assistant (Claude) helped collect public catalog data, generate the synthe
 
 ## Group
 
-[Group name] · [Members] · Lecturer: Dr Patrick Mukala
+Lecturer: Dr Patrick Mukala
+
+| Member | Student number |
+|---|---|
+| Ovania Fernandes | 82099819 |
+| Shah Siddique | 8703218 |
+| Abhinav Mishra | 8937680 |
+| Shahmeer Ahmed | 9047311 |
+| Abdullah Arif | 8964403 |
+| Emaan Zahid | 7715377 |

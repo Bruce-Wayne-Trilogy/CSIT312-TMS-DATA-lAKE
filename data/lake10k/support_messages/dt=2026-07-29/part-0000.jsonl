@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0007425-1","ts":"2026-07-29T03:53:12+04:00","channel":"phone_note","customer_id":"SYN-CUST-006400","order_id":"SYN-ORD-0007425","language":"ar","topic_hint":"delivery_eta","text":"متى سيتم توصيل طلبي رقم SYN-ORD-0007425؟","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0007463-1","ts":"2026-07-29T04:23:59+04:00","channel":"whatsapp","customer_id":"SYN-CUST-006433","order_id":"SYN-ORD-0007463","language":"en","topic_hint":"delivery_eta","text":"Can I schedule the delivery for order SYN-ORD-0007463? I am home on weekends.","data_origin":"SYNTHETIC"}

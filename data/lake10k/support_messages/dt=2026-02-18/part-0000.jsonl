@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0003353-1","ts":"2026-02-18T04:18:54+04:00","channel":"whatsapp","customer_id":"SYN-CUST-002887","order_id":"SYN-ORD-0003353","language":"en","topic_hint":"delivery_eta","text":"Can I schedule the delivery for order SYN-ORD-0003353? I am home on weekends.","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0003361-1","ts":"2026-02-18T06:46:38+04:00","channel":"email","customer_id":"SYN-CUST-002895","order_id":"SYN-ORD-0003361","language":"en","topic_hint":"cancel","text":"I need to cancel order SYN-ORD-0003361 before it ships.","data_origin":"SYNTHETIC"}

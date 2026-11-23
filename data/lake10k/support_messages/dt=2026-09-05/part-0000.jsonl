@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0008270-1","ts":"2026-09-05T22:19:35+04:00","channel":"whatsapp","customer_id":"SYN-CUST-007125","order_id":"SYN-ORD-0008270","language":"en","topic_hint":"address","text":"Please update the delivery address on order SYN-ORD-0008270.","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0008255-1","ts":"2026-09-05T22:55:59+04:00","channel":"phone_note","customer_id":"SYN-CUST-007112","order_id":"SYN-ORD-0008255","language":"en","topic_hint":"delivery_eta","text":"Hi, when will my order SYN-ORD-0008255 be delivered?","data_origin":"SYNTHETIC"}

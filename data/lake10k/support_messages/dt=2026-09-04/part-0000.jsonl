@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0008239-1","ts":"2026-09-04T02:12:00+04:00","channel":"whatsapp","customer_id":"SYN-CUST-003041","order_id":"SYN-ORD-0008239","language":"en","topic_hint":"delivery_eta","text":"Can I schedule the delivery for order SYN-ORD-0008239? I am home on weekends.","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0008190-1","ts":"2026-09-04T10:08:10+04:00","channel":"email","customer_id":"SYN-CUST-007053","order_id":"SYN-ORD-0008190","language":"en","topic_hint":"address","text":"Please update the delivery address on order SYN-ORD-0008190.","data_origin":"SYNTHETIC"}

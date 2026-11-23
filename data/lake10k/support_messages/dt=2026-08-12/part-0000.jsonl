@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0007739-1","ts":"2026-08-12T18:08:34+04:00","channel":"email","customer_id":"SYN-CUST-001142","order_id":"SYN-ORD-0007739","language":"en","topic_hint":"delivery_eta","text":"Hi, when will my order SYN-ORD-0007739 be delivered?","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0007734-1","ts":"2026-08-12T19:45:25+04:00","channel":"phone_note","customer_id":"SYN-CUST-006669","order_id":"SYN-ORD-0007734","language":"en","topic_hint":"cancel","text":"I need to cancel order SYN-ORD-0007734 before it ships.","data_origin":"SYNTHETIC"}

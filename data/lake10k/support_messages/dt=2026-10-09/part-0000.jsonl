@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0009212-1","ts":"2026-10-09T14:14:07+04:00","channel":"whatsapp","customer_id":"SYN-CUST-007933","order_id":"SYN-ORD-0009212","language":"en","topic_hint":"warranty","text":"What does the warranty cover for the Sleep Kit (order SYN-ORD-0009212)?","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0009253-1","ts":"2026-10-09T14:17:28+04:00","channel":"email","customer_id":"SYN-CUST-007968","order_id":"SYN-ORD-0009253","language":"ar","topic_hint":"delivery_eta","text":"متى سيتم توصيل طلبي رقم SYN-ORD-0009253؟","data_origin":"SYNTHETIC"}

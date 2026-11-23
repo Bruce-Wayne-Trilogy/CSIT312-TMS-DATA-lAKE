@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0009057-1","ts":"2026-10-04T05:03:17+04:00","channel":"whatsapp","customer_id":"SYN-CUST-002716","order_id":"SYN-ORD-0009057","language":"en","topic_hint":"delivery_eta","text":"Hi, when will my order SYN-ORD-0009057 be delivered?","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0009061-1","ts":"2026-10-04T18:45:42+04:00","channel":"whatsapp","customer_id":"SYN-CUST-007797","order_id":"SYN-ORD-0009061","language":"ar","topic_hint":"defect","text":"المنتج الذي استلمته (رقم الطلب SYN-ORD-0009061) به عيب تصنيع، أرجو المساعدة.","data_origin":"SYNTHETIC"}

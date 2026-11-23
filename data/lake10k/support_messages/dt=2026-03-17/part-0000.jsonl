@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0004256-1","ts":"2026-03-17T05:09:54+04:00","channel":"phone_note","customer_id":"SYN-CUST-003644","order_id":"SYN-ORD-0004256","language":"en","topic_hint":"cancel","text":"Please cancel order SYN-ORD-0004256, I ordered the wrong size.","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0004248-1","ts":"2026-03-17T23:49:14+04:00","channel":"phone_note","customer_id":"SYN-CUST-003637","order_id":"SYN-ORD-0004248","language":"ar","topic_hint":"delivery_eta","text":"متى سيتم توصيل طلبي رقم SYN-ORD-0004248؟","data_origin":"SYNTHETIC"}

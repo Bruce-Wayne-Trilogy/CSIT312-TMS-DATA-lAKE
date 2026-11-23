@@ -1,0 +1,20 @@
+{
+  "orders": 10000,
+  "order_items": 14683,
+  "catalog_rows": 360,
+  "aov_total_mean": 4043.89,
+  "aov_total_median": 2050.0,
+  "aov_items_net_mean": 4025.62,
+  "aov_excl_cancelled_mean": 4047.21,
+  "p10": 400.0,
+  "p25": 1000.0,
+  "p75": 4400.0,
+  "p90": 9800.0,
+  "p95": 14348.5,
+  "p99": 27897.6,
+  "max": 264150.0,
+  "min": 50.0,
+  "revenue_total_aed": 40438942.0,
+  "size_ladder": true,
+  "seed": 312
+}

@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0009365-1","ts":"2026-10-14T01:13:49+04:00","channel":"email","customer_id":"SYN-CUST-008066","order_id":"SYN-ORD-0009365","language":"ar","topic_hint":"delivery_eta","text":"متى سيتم توصيل طلبي رقم SYN-ORD-0009365؟","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0009352-1","ts":"2026-10-14T22:45:02+04:00","channel":"email","customer_id":"SYN-CUST-008055","order_id":"SYN-ORD-0009352","language":"en","topic_hint":"warranty","text":"What does the warranty cover for the ErgoSeven7 Pillow (order SYN-ORD-0009352)?","data_origin":"SYNTHETIC"}

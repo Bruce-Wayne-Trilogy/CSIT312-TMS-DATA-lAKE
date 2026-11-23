@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0004059-1","ts":"2026-03-12T13:27:38+04:00","channel":"phone_note","customer_id":"SYN-CUST-003488","order_id":"SYN-ORD-0004059","language":"en","topic_hint":"address","text":"Please update the delivery address on order SYN-ORD-0004059.","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0004051-1","ts":"2026-03-12T17:11:51+04:00","channel":"phone_note","customer_id":"SYN-CUST-003481","order_id":"SYN-ORD-0004051","language":"en","topic_hint":"warranty","text":"How do I activate the warranty for order SYN-ORD-0004051?","data_origin":"SYNTHETIC"}

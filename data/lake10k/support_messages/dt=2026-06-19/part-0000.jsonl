@@ -1,0 +1,2 @@
+{"msg_id":"SYN-MSG-0006667-1","ts":"2026-06-19T00:34:41+04:00","channel":"whatsapp","customer_id":"SYN-CUST-004865","order_id":"SYN-ORD-0006667","language":"ar","topic_hint":"warranty","text":"كيف يمكنني تفعيل الضمان للطلب SYN-ORD-0006667؟","data_origin":"SYNTHETIC"}
+{"msg_id":"SYN-MSG-0006607-1","ts":"2026-06-19T02:32:06+04:00","channel":"email","customer_id":"SYN-CUST-005676","order_id":"SYN-ORD-0006607","language":"en","topic_hint":"delivery_eta","text":"Hi, when will my order SYN-ORD-0006607 be delivered?","data_origin":"SYNTHETIC"}
