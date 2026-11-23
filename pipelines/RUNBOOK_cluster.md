@@ -1,6 +1,6 @@
 # Runbook: run the written-but-unexecuted parts on the course Hadoop VM
 
-FAST PATH (recommended): see ../FRIEND_INSTRUCTIONS.txt. `bash run_all_on_vm.sh` does steps 0 to 3 below in one go and writes the log and summary; `bash screenshot_helper.sh` then shows each screen for the screenshots.
+FAST PATH (recommended): `bash run_all_on_vm.sh` does steps 0 to 3 below in one go and writes the log and summary.
 
 Manual path: unzip both packages on the VM, then `cd code/pipelines`. Take a screenshot after each step (terminal showing the command and its output).
 

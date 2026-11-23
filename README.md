@@ -1,5 +1,7 @@
 # ISIT312 Project: A Data Lake for The Mattress Store
 
+> Hadoop data lake (HDFS, Hive, MapReduce, Spark, HBase) for a UAE retailer, built and tested on synthetic data. Authors: see [AUTHORS.md](AUTHORS.md).
+
 Group project for ISIT312 Big Data Management (UOW Dubai, Autumn 2026).
 A data lake on Hadoop for The Mattress Store (TMS), a UAE retailer, built with
 synthetic data anchored on public product, category and price information from
